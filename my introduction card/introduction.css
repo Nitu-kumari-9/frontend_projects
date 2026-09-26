@@ -1,0 +1,32 @@
+*{
+    color:black;
+}
+
+p {
+    color:blue;
+
+}
+
+AB{
+    color:purple;
+}
+#my name{
+    color:darkred;
+}
+h1,h2{
+    color:darkgreen;
+} 
+
+.andar-ka-box p{
+     color:chartreuse;
+}
+
+button:hover{
+    color:brown;
+}
+
+
+
+
+
+
