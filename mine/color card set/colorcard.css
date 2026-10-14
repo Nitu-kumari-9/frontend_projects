@@ -1,0 +1,26 @@
+.title{
+    color: black;
+}
+
+.subtitle{
+    color: gray;
+}
+
+red-card {
+    background-color:red;
+    color:white;
+}
+
+blue-card {
+    background-color: # 3498db;
+    color:white;
+}
+
+green-card {
+    background-color: rgb(46,204,113);
+    color:white;
+}
+
+
+    
+    

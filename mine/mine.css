@@ -1,0 +1,46 @@
+.main {
+    border: 1px solid black;
+    background-image: url('./sunflower\ image.jpg');
+    background-size: cover;
+}
+
+.AB {
+    background-color: lavender;
+    border: 3px solid purple;
+    text-align: center;
+    margin: 10px;
+    border-radius: 10px;
+
+}
+
+.profile {
+    background-color: deeppink;
+    border: 3px solid deeppink;
+    text-align: left;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.address {
+    background-color: lightblue;
+    border: 3px solid blue;
+    text-align: right;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.nicknames {
+    background-color: lightgray;
+    border: 3px solid green;
+    text-align: center;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.thank {
+    background-color: lightyellow;
+    border: 3px solid orange;
+    text-align: center;
+    margin: 10px;
+    border-radius: 10px;
+}
